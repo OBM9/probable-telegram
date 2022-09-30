@@ -1,1 +1,1 @@
-var b=a;
+var a=9;
