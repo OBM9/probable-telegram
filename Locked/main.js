@@ -1,2 +1,2 @@
 var myFirstName="John";
-myLastName="DeLoatch";
+var myLastName="DeLoatch";
